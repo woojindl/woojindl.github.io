@@ -2,9 +2,15 @@ header{
   text-align:center;
   background:url(backgroundHTMLpractice.jpg);
   color:#FFFFFF;
+  h1{
+    padding:50px;
+    font:cambria;
+    font-size:70px;
 }
 ul{
   background:#000000;
+  display:inline;
+  margin:20px;
 }
 il{
   padding:10,20,10,20;
