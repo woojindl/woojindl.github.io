@@ -13,4 +13,5 @@ ul {
 }
 li {
   padding: 10,20,10,20;
+  display: inline;
 }
