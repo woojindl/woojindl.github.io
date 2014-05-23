@@ -1,6 +1,6 @@
 header{
   text-align:center;
-  background:url(backgroundHTMLpractice.jpg);
+  background:#000000;
   color:#FFFFFF;
 h1{
     padding:50px;
@@ -8,7 +8,7 @@ h1{
     font-size:70px;
 }
 ul{
-  background:#000000;
+  background:#C0C0C0;
   display:inline;
   margin:20px;
 }
