@@ -1,17 +1,3 @@
-header {
+html {
   text-align:center;
-  background:#000000;
-  color:#FFFFFF;
-}
-h1{
-   padding:50px;
-    font-family:cambria;
-    font-size:70px;
-}
-ul {
-  background:#C0C0C0;
-}
-li {
-  padding: 10,20,10,20;
-  display: inline;
 }
